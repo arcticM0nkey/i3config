@@ -1,0 +1,45 @@
+2023/04/22-15:47:29.505 3 Reusing MANIFEST /home/yoshi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/04/22-15:47:29.506 3 Recovering log #204
+2023/04/22-15:47:29.506 3 Reusing old log /home/yoshi/.config/chromium/Default/Local Storage/leveldb/000204.log 
+2023/04/22-15:47:50.912 3 Level-0 table #209: started
+2023/04/22-15:47:50.918 3 Level-0 table #209: 143347 bytes OK
+2023/04/22-15:47:50.925 3 Delete type=0 #204
+2023/04/22-15:48:45.672 4 Level-0 table #211: started
+2023/04/22-15:48:45.679 4 Level-0 table #211: 74638 bytes OK
+2023/04/22-15:48:45.686 4 Delete type=0 #208
+2023/04/22-15:56:52.448 3 Level-0 table #213: started
+2023/04/22-15:56:52.455 3 Level-0 table #213: 106292 bytes OK
+2023/04/22-15:56:52.462 3 Delete type=0 #210
+2023/04/22-15:58:43.848 8 Level-0 table #215: started
+2023/04/22-15:58:43.854 8 Level-0 table #215: 87553 bytes OK
+2023/04/22-15:58:43.862 8 Delete type=0 #212
+2023/04/22-15:58:43.863 8 Compacting 4@0 + 1@1 files
+2023/04/22-15:58:43.888 8 Generated table #216@0: 529 keys, 670973 bytes
+2023/04/22-15:58:43.888 8 Compacted 4@0 + 1@1 files => 670973 bytes
+2023/04/22-15:58:43.894 8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/22-15:58:43.895 8 Delete type=2 #206
+2023/04/22-15:58:43.895 8 Delete type=2 #209
+2023/04/22-15:58:43.895 8 Delete type=2 #211
+2023/04/22-15:58:43.895 8 Delete type=2 #213
+2023/04/22-15:58:43.895 8 Delete type=2 #215
+2023/04/22-16:09:23.384 3 Level-0 table #218: started
+2023/04/22-16:09:23.426 3 Level-0 table #218: 99079 bytes OK
+2023/04/22-16:09:23.432 3 Delete type=0 #214
+2023/04/22-16:10:34.616 d Level-0 table #220: started
+2023/04/22-16:10:34.621 d Level-0 table #220: 93998 bytes OK
+2023/04/22-16:10:34.628 d Delete type=0 #217
+2023/04/22-16:10:40.176 d Level-0 table #222: started
+2023/04/22-16:10:40.182 d Level-0 table #222: 56633 bytes OK
+2023/04/22-16:10:40.189 d Delete type=0 #219
+2023/04/22-16:19:38.135 17 Level-0 table #224: started
+2023/04/22-16:19:38.139 17 Level-0 table #224: 51623 bytes OK
+2023/04/22-16:19:38.146 17 Delete type=0 #221
+2023/04/22-16:19:38.147 17 Compacting 4@0 + 1@1 files
+2023/04/22-16:19:38.160 17 Generated table #225@0: 531 keys, 660475 bytes
+2023/04/22-16:19:38.160 17 Compacted 4@0 + 1@1 files => 660475 bytes
+2023/04/22-16:19:38.166 17 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/22-16:19:38.166 17 Delete type=2 #216
+2023/04/22-16:19:38.166 17 Delete type=2 #218
+2023/04/22-16:19:38.167 17 Delete type=2 #220
+2023/04/22-16:19:38.167 17 Delete type=2 #222
+2023/04/22-16:19:38.167 17 Delete type=2 #224

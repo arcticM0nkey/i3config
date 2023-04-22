@@ -1,0 +1,12 @@
+2023/04/22-16:11:25.669 141d Reusing MANIFEST /home/yoshi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/22-16:11:25.670 141d Recovering log #4
+2023/04/22-16:11:25.681 141d Reusing old log /home/yoshi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/04/22-16:12:37.123 1a1b Level-0 table #8: started
+2023/04/22-16:12:37.145 1a1b Level-0 table #8: 1066259 bytes OK
+2023/04/22-16:12:37.152 1a1b Delete type=0 #4
+2023/04/22-16:13:25.979 1a1b Compacting 1@1 + 1@2 files
+2023/04/22-16:13:25.989 1a1b Generated table #9@1: 405 keys, 32477 bytes
+2023/04/22-16:13:25.989 1a1b Compacted 1@1 + 1@2 files => 32477 bytes
+2023/04/22-16:13:25.997 1a1b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/22-16:13:25.997 1a1b Delete type=2 #5
+2023/04/22-16:13:25.997 1a1b Delete type=2 #8

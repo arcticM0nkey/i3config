@@ -1,0 +1,21 @@
+2023/04/22-15:38:36.910 3 Reusing MANIFEST /home/yoshi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/04/22-15:38:36.911 3 Recovering log #197
+2023/04/22-15:38:36.912 3 Reusing old log /home/yoshi/.config/chromium/Default/Local Storage/leveldb/000197.log 
+2023/04/22-15:39:08.111 5 Level-0 table #201: started
+2023/04/22-15:39:08.118 5 Level-0 table #201: 46219 bytes OK
+2023/04/22-15:39:08.125 5 Delete type=0 #197
+2023/04/22-15:41:38.600 3 Level-0 table #203: started
+2023/04/22-15:41:38.607 3 Level-0 table #203: 71597 bytes OK
+2023/04/22-15:41:38.613 3 Delete type=0 #200
+2023/04/22-15:42:38.600 3 Level-0 table #205: started
+2023/04/22-15:42:38.606 3 Level-0 table #205: 70078 bytes OK
+2023/04/22-15:42:38.613 3 Delete type=0 #202
+2023/04/22-15:42:38.613 3 Compacting 4@0 + 1@1 files
+2023/04/22-15:42:38.627 3 Generated table #206@0: 500 keys, 691491 bytes
+2023/04/22-15:42:38.627 3 Compacted 4@0 + 1@1 files => 691491 bytes
+2023/04/22-15:42:38.632 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/22-15:42:38.634 3 Delete type=2 #196
+2023/04/22-15:42:38.634 3 Delete type=2 #198
+2023/04/22-15:42:38.634 3 Delete type=2 #201
+2023/04/22-15:42:38.634 3 Delete type=2 #203
+2023/04/22-15:42:38.634 3 Delete type=2 #205
